@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "xx-ledger",
+  "appid": "testAppId",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
